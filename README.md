@@ -1,0 +1,2 @@
+# setup
+setup ec2
