@@ -13,6 +13,9 @@ source $HOME/.nvm/nvm.sh
 nvm install v0.10.33
 nvm use v0.10.33
 
+# install npm: node-package-manager
+sudo apt-get install -y npm
+
 # npm no sudo
 wget https://raw.githubusercontent.com/glenpike/npm-g_nosudo/master/npm-g-no-sudo.sh
 ./npm-g-nosudo.sh
