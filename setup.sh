@@ -10,8 +10,8 @@ curl https://raw.github.com/creationix/nvm/master/install.sh | sh
 
 # Load nvm and install latest production node
 source $HOME/.nvm/nvm.sh
-nvm install v0.10.12
-nvm use v0.10.12
+nvm install v0.10.33
+nvm use v0.10.33
 
 # npm no sudo
 wget https://raw.githubusercontent.com/glenpike/npm-g_nosudo/master/npm-g-no-sudo.sh
